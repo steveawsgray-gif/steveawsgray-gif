@@ -9,6 +9,7 @@ standpoint: intensely technical, not at the code level.
 
 - [amazon-connect-migration-primer](https://github.com/steveawsgray-gif/amazon-connect-migration-primer) — a working Amazon Connect contact center (Avaya/Cisco → Connect migration slice), built with Terraform. Deployed, commissioned and frozen November 2026.
 - [agentic-connect](https://github.com/steveawsgray-gif/agentic-connect) — custom Bedrock agents staffing the Connect queues, AgentCore as the control plane. Gen-1/Gen-2 design briefs published; Gate 0 spike proved the AgentCore Runtime hosting path fails on auth (Nov 2026), re-host planned.
+- [serverless-data-lake](https://github.com/steveawsgray-gif/serverless-data-lake) — a standalone serverless data lake on AWS: a scheduled Lambda pulls a public feed into S3 (partitioned by date), Glue catalogues it, Athena queries it. Design published November 2026; AWS build to follow.
 
 ## Open to work
 
