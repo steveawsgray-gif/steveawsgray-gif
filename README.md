@@ -17,7 +17,9 @@ standpoint: intensely technical, not at the code level.
 
 [![The Slider — from basic voice ACD to full AI2](https://raw.githubusercontent.com/steveawsgray-gif/the-slider/main/preview.png)](https://steveawsgray-gif.github.io/the-slider/)
 
-*Slide it right and watch the diagram grow: other media, skills, basic AI, agentic AI1, then AI2 — with rare human experts as the backup, not the front line. [Open the interactive player →](https://steveawsgray-gif.github.io/the-slider/)*
+*Slide it right and watch the diagram grow: other media, skills, basic AI, agentic AI1, then AI2 — with rare human experts as the backup, not the front line.*
+
+[![▶ Open the interactive player](https://img.shields.io/badge/%E2%96%B6_Open_the_interactive_player-2ea44f?style=for-the-badge)](https://steveawsgray-gif.github.io/the-slider/)
 
 ## Open to work
 
