@@ -7,7 +7,7 @@ standpoint: intensely technical, not at the code level.
 
 ## What I'm building
 
-- [amazon-connect-migration-primer](https://github.com/steveawsgray-gif/amazon-connect-migration-primer) — a working Amazon Connect contact centre (Avaya/Cisco → Connect migration slice), built with Terraform. Deployed, commissioned and frozen November 2026.
+- [amazon-connect-migration-primer](https://github.com/steveawsgray-gif/amazon-connect-migration-primer) — a working Amazon Connect contact center (Avaya/Cisco → Connect migration slice), built with Terraform. Deployed, commissioned and frozen November 2026.
 - [agentic-connect](https://github.com/steveawsgray-gif/agentic-connect) — custom Bedrock agents staffing the Connect queues, AgentCore as the control plane. Gen-1/Gen-2 design briefs published; Gate 0 spike proved the AgentCore Runtime hosting path fails on auth (Nov 2026), re-host planned.
 
 ## Open to work
